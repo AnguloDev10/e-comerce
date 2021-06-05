@@ -1,0 +1,4 @@
+String interpoletions ->mostrar variables en nuestros componentes
+ngIf => condicional
+
+*ngfor => recorre listas
